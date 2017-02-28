@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE config>
+<!-- Reviewed: no -->
+<!--
+/**
+ * Magento
+ * app/code/etc/modules/MasteringMagento_Example.xml
+ *
+ * Description of the file
+ *
+ * @author      Subash Basnet
+ * @category    MasteringMagento
+ * @package     Example
+ * @copyright   Copyright (c) 2017 
+ */
+-->
+<config>
+    <modules>
+        <MasteringMagento_Example>
+            <active>true<active>
+            <codePool>local</codePool>
+        </MasteringMagento_Example>
+    </modules>
+</config>
